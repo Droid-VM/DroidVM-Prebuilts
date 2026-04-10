@@ -1,0 +1,129 @@
+{
+  "hash": [
+    {
+      "file": "linux.7z",
+      "source": "prebuilt",
+      "sha256": "5bc3a0638e7c9286a5b28dd5f32cd096bf5dd9c56e2c45afbd5e27d5353ce4ba"
+    },
+    {
+      "file": "usr/bin/busybox",
+      "source": "prebuilt",
+      "sha256": "4d60ab3f5a59ebb2ca863f2f514e6924401b581e9b64f602665c008177626651"
+    },
+    {
+      "file": "usr/bin/crosvm",
+      "source": "prebuilt",
+      "sha256": "ed1d8b38b61e9b54e8f6966a4f8173fab66d5ceb9a11957dd1edf233f46a492a"
+    },
+    {
+      "file": "usr/bin/magisk",
+      "source": "prebuilt",
+      "sha256": "2d8419018dda41f7d9aca94c0ca8f926f3b8447ca5cf7fb71faeb8d05e29694e"
+    },
+    {
+      "file": "usr/bin/magiskboot",
+      "source": "prebuilt",
+      "sha256": "d7440e2cd89899426e809554bf793baef9804ccbe5a52ce34a8b6242725d3c77"
+    },
+    {
+      "file": "usr/bin/magiskinit",
+      "source": "prebuilt",
+      "sha256": "383670a7ba3a6a4b79e5f3467e1da4b66a5df66a9b356ab9f70916854dd6b468"
+    },
+    {
+      "file": "usr/bin/magiskpolicy",
+      "source": "prebuilt",
+      "sha256": "9837db9db475eb74b6715f081768cb6a1f2fb5a2b2ac15755686062501bace27"
+    },
+    {
+      "file": "usr/bin/pv",
+      "source": "prebuilt",
+      "sha256": "ba4002854d6c63c894d4cf533149accd68347f3260b56a90ded0819403f59e49"
+    },
+    {
+      "file": "usr/bin/qemu-img",
+      "source": "prebuilt",
+      "sha256": "cc86f7d484fffce087170712764e4eb1f20652dd2de92e2f301a2482bb20f630"
+    },
+    {
+      "file": "usr/lib/android.hardware.graphics.allocator-V2-ndk.so",
+      "source": "prebuilt",
+      "sha256": "279927e00123d5bc1b5e7a95a4fbf8502225e5c92ca522068d912df90c4c2e46"
+    },
+    {
+      "file": "usr/lib/android.hardware.graphics.common-V6-ndk.so",
+      "source": "prebuilt",
+      "sha256": "4c969fb38f3ef2395f7a36e04ba8a39628f5b934ad4f691487e3b0d886876f29"
+    },
+    {
+      "file": "usr/lib/libapexsupport.so",
+      "source": "prebuilt",
+      "sha256": "4a98e3ec84211c0bb771397c9d501490e0f9d21ca93c73e5c3c099955e8adadd"
+    },
+    {
+      "file": "usr/lib/libbinder.so",
+      "source": "prebuilt",
+      "sha256": "41789bc38d7c729754d84555ba1e617ae759413b8ce55a7e422f8345713f3b4e"
+    },
+    {
+      "file": "usr/lib/libbinder_ndk.so",
+      "source": "prebuilt",
+      "sha256": "2cfb33d5fe09b1769ed8e3aa5728ec93320ff6f6cefbe38a4f839e0090772f7f"
+    },
+    {
+      "file": "usr/lib/libc++.so",
+      "source": "prebuilt",
+      "sha256": "c6486cd3f0e6dd6a12346d3b1d55ef4bef7f1cc11e4a26bbe9da720c07d4b83b"
+    },
+    {
+      "file": "usr/lib/libgfxstream_backend.so",
+      "source": "prebuilt",
+      "sha256": "2e09acf44ea6e0f65993b3c758f6e03b189be314d4892e17790a03ff55c128f8"
+    },
+    {
+      "file": "usr/lib/libnativewindow.so",
+      "source": "prebuilt",
+      "sha256": "62733caf0b9b675584900c1ae257b1883671fe2c06e059d6142a15763d8240fc"
+    },
+    {
+      "file": "usr/lib/libui.so",
+      "source": "prebuilt",
+      "sha256": "9b34c2088df98875f9f8924369b8a7a8d8884fa55c0aa28aac044dcb25b251ef"
+    },
+    {
+      "file": "usr/lib/libvirglrenderer.so",
+      "source": "prebuilt",
+      "sha256": "29d902aeabf5d81999273151cebe9c199a5629246857cfc70a9d7d3f705dfa73"
+    },
+    {
+      "file": "usr/lib/libvncserver.so",
+      "source": "prebuilt",
+      "sha256": "3fcd20f296b5dc4a8bedaa0b449f4334ace8365258da9a4ba0b1addb383157f0"
+    },
+    {
+      "file": "usr/share/droidvm/agent/run.sh",
+      "source": "prebuilt",
+      "sha256": "487acc0771890a9e550cd6cf9b8bcb80abe6b9abac34f1d1ea7165b41d3949bc"
+    },
+    {
+      "file": "usr/share/droidvm/edk2-gunyah.fd",
+      "source": "prebuilt",
+      "sha256": "34cdb49905da56a88796c165529553f90835ddac6d3883b32b77107951812515"
+    },
+    {
+      "file": "usr/share/droidvm/edk2-gunyah.vars.fd",
+      "source": "prebuilt",
+      "sha256": "8b634c1e6bd11607850b69111f6c4dbd1583dbbd1460dac72dbacbdc1a4a130a"
+    },
+    {
+      "file": "usr/share/droidvm/initramfs.img",
+      "source": "prebuilt",
+      "sha256": "eb98a6ad39394434b499c8066d097e83b865fb70ff6a16fea8b8e3f358ea80fd"
+    },
+    {
+      "file": "usr/share/droidvm/vmlinuz",
+      "source": "prebuilt",
+      "sha256": "7cfd887285ff35fdeca4564ed92a306f6b1b4605876468805d9b2653ad37afaf"
+    }
+  ]
+}
