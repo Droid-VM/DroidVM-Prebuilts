@@ -1,11 +1,6 @@
 {
   "hash": [
     {
-      "file": "linux.7z",
-      "source": "prebuilt",
-      "sha256": "5bc3a0638e7c9286a5b28dd5f32cd096bf5dd9c56e2c45afbd5e27d5353ce4ba"
-    },
-    {
       "file": "usr/bin/busybox",
       "source": "prebuilt",
       "sha256": "4d60ab3f5a59ebb2ca863f2f514e6924401b581e9b64f602665c008177626651"
