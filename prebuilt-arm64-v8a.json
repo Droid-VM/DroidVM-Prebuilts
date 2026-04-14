@@ -8,7 +8,7 @@
     {
       "file": "usr/bin/crosvm",
       "source": "prebuilt",
-      "sha256": "ed1d8b38b61e9b54e8f6966a4f8173fab66d5ceb9a11957dd1edf233f46a492a"
+      "sha256": "8353533121de2e5813d2ba5ad20ecbcf675b97f2669a9d4fc595963c24a1165d"
     },
     {
       "file": "usr/bin/magisk",
@@ -38,7 +38,12 @@
     {
       "file": "usr/bin/qemu-img",
       "source": "prebuilt",
-      "sha256": "cc86f7d484fffce087170712764e4eb1f20652dd2de92e2f301a2482bb20f630"
+      "sha256": "96565cfe3bc6e5e3d20599e3dae49c2e7d5d5f2864c616dd92c8ca735b08d02a"
+    },
+    {
+      "file": "usr/bin/qemu-system-aarch64",
+      "source": "prebuilt",
+      "sha256": "d3f18db3e0768a739589a5744f64196fdc09769b4e01e42f4a975cc8858847d2"
     },
     {
       "file": "usr/lib/android.hardware.graphics.allocator-V2-ndk.so",
@@ -71,9 +76,44 @@
       "sha256": "c6486cd3f0e6dd6a12346d3b1d55ef4bef7f1cc11e4a26bbe9da720c07d4b83b"
     },
     {
+      "file": "usr/lib/libepoxy.so",
+      "source": "prebuilt",
+      "sha256": "530c17bae8728d02b7b56235364255ec63a14186e356de8fa88e454cdff6d53c"
+    },
+    {
+      "file": "usr/lib/libffi.so",
+      "source": "prebuilt",
+      "sha256": "c3a94d30d8d7a5596550ac1c04847136abfb4830edba9122eaf924070b2b175c"
+    },
+    {
       "file": "usr/lib/libgfxstream_backend.so",
       "source": "prebuilt",
       "sha256": "2e09acf44ea6e0f65993b3c758f6e03b189be314d4892e17790a03ff55c128f8"
+    },
+    {
+      "file": "usr/lib/libgio-2.0.so",
+      "source": "prebuilt",
+      "sha256": "6def86e607ebd9ded3ad33ea27a2ff847cd1ce7d21555bd0043e40046bb869fc"
+    },
+    {
+      "file": "usr/lib/libglib-2.0.so",
+      "source": "prebuilt",
+      "sha256": "cba53b0af10ac7960b71d397fe4fe8b369b6d77c0fca59e67efc300c779cc83d"
+    },
+    {
+      "file": "usr/lib/libgmodule-2.0.so",
+      "source": "prebuilt",
+      "sha256": "9eb93e7b87d93f4cbacfc453ee67c6b6b4233d1b8ec7bc50220caf57efbc511f"
+    },
+    {
+      "file": "usr/lib/libgobject-2.0.so",
+      "source": "prebuilt",
+      "sha256": "b326e4c2a5d9928812f2eec7bbbfad4674acdef00bf3577b06679a92276617ab"
+    },
+    {
+      "file": "usr/lib/libintl.so",
+      "source": "prebuilt",
+      "sha256": "7e30c696578871a2969c23468502be139e45c9d65ce4aaa48f7d76d85471e4d4"
     },
     {
       "file": "usr/lib/libnativewindow.so",
@@ -81,14 +121,39 @@
       "sha256": "62733caf0b9b675584900c1ae257b1883671fe2c06e059d6142a15763d8240fc"
     },
     {
+      "file": "usr/lib/libpcre2-8.so",
+      "source": "prebuilt",
+      "sha256": "85abfc8784b9c0f11fe1fdaf11d2433039a3dc6cc6fd3b9a0278329b9c2863a1"
+    },
+    {
+      "file": "usr/lib/libpixman-1.so",
+      "source": "prebuilt",
+      "sha256": "5262b4a660044dd06c761434951ea7217f88a6940e0caaf50db527b6b463eae8"
+    },
+    {
+      "file": "usr/lib/librutabaga_gfx_ffi.so",
+      "source": "prebuilt",
+      "sha256": "11baab83e99f9b15b48dc112baee8c9f05129048d833abf1c2aeda43e1091bfd"
+    },
+    {
+      "file": "usr/lib/libslirp.so",
+      "source": "prebuilt",
+      "sha256": "7d613adcc448913b8fc92440253e6074908266818b58487463c19fe09872c130"
+    },
+    {
       "file": "usr/lib/libui.so",
       "source": "prebuilt",
       "sha256": "9b34c2088df98875f9f8924369b8a7a8d8884fa55c0aa28aac044dcb25b251ef"
     },
     {
+      "file": "usr/lib/libusb-1.0.so",
+      "source": "prebuilt",
+      "sha256": "4735f81332da03a56979426d362293cc854c9a520cb9255a3aa71b6a305bcefd"
+    },
+    {
       "file": "usr/lib/libvirglrenderer.so",
       "source": "prebuilt",
-      "sha256": "29d902aeabf5d81999273151cebe9c199a5629246857cfc70a9d7d3f705dfa73"
+      "sha256": "24fb398c85967fbb898b8060f28fee9f8c19920eec70d66d15cb11c03e54bfba"
     },
     {
       "file": "usr/lib/libvncserver.so",
@@ -111,6 +176,11 @@
       "sha256": "8b634c1e6bd11607850b69111f6c4dbd1583dbbd1460dac72dbacbdc1a4a130a"
     },
     {
+      "file": "usr/share/droidvm/edk2-qemu.fd",
+      "source": "prebuilt",
+      "sha256": "ca5800d2328d8f4ecea41a329a454b48acd62854a1c4ce20237f38a601a9a002"
+    },
+    {
       "file": "usr/share/droidvm/initramfs.img",
       "source": "prebuilt",
       "sha256": "eb98a6ad39394434b499c8066d097e83b865fb70ff6a16fea8b8e3f358ea80fd"
@@ -119,6 +189,181 @@
       "file": "usr/share/droidvm/vmlinuz",
       "source": "prebuilt",
       "sha256": "7cfd887285ff35fdeca4564ed92a306f6b1b4605876468805d9b2653ad37afaf"
+    },
+    {
+      "file": "usr/share/qemu/efi-virtio.rom",
+      "source": "prebuilt",
+      "sha256": "26be36901db7f8181c306cc62bd74891d8646528965a78e40cceadba5dd7c8e7"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/ar",
+      "source": "prebuilt",
+      "sha256": "059ab719df4296edb800d399501e3823e1e6f470cc06a3a4564f4bb2dbd5c1fc"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/bepo",
+      "source": "prebuilt",
+      "sha256": "01ccdb7e2d0b20f517e03d39cc70802ad83dfc1ed2e5d50ff9b4a4f77e37a9f8"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/cz",
+      "source": "prebuilt",
+      "sha256": "3664b3f13e6cfff0e6d05f12000aa6610eff04f570707261ec35ca830ded6c36"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/da",
+      "source": "prebuilt",
+      "sha256": "95ef0c168f0b25e936a7ff944da820a43af8028b515cc6709724f457e105c187"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/de",
+      "source": "prebuilt",
+      "sha256": "cda7dc9656f007ca3e88e5bac50f20c7f61f934bcec2e87c6d61859e632ddb98"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/de-ch",
+      "source": "prebuilt",
+      "sha256": "3260cb64fdcdf48e2b53c5d0573dc2a9410d7d3aae227ed42dda945f9ab74e06"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/en-gb",
+      "source": "prebuilt",
+      "sha256": "e14229b7f9165bf226bf4de968fd5f6a504014a2179de08c2b2184cefe68174e"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/en-us",
+      "source": "prebuilt",
+      "sha256": "52cf4c523e686078699ed58761c7e1443080305237a5f67a3716832570c5c8e5"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/es",
+      "source": "prebuilt",
+      "sha256": "d9b1da8193232882705bd4a312c0923b6d91268f1e1a8eed2afbd7fc37681c06"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/et",
+      "source": "prebuilt",
+      "sha256": "95af1e25132185e3cb271d491086ccf09cb667033afb718f1a11e974e80a838f"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/fi",
+      "source": "prebuilt",
+      "sha256": "4c5cd5359c18635187d7af9570088a7bbd21f96d961aedbc4c9fb1e5df099281"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/fo",
+      "source": "prebuilt",
+      "sha256": "3750b8090caea3cf6c827b97f5ecc2d1172c33d960141c50f96e61c53f682ccf"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/fr",
+      "source": "prebuilt",
+      "sha256": "60d9baa3565b7727b4178704100bffb02cbd5b527a9dcc9f9ca76d76767b166e"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/fr-be",
+      "source": "prebuilt",
+      "sha256": "522b5e758375e3d796fba096a46077766bd44548c8c61a4abe946e3116c1ad97"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/fr-ca",
+      "source": "prebuilt",
+      "sha256": "9ee3fc13beec6e74f40fb6d150d7fe3b0afe4557fdf0769601e662a122a88cc0"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/fr-ch",
+      "source": "prebuilt",
+      "sha256": "7b2ad2929f3b7b4f5d60176bd7e1852f91efbcfe2700e8df9bc9b891609a7170"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/hr",
+      "source": "prebuilt",
+      "sha256": "e8391ed09015ce8459a98e3470daddd3a6d95c4c7e93b750098f5a321fd57482"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/hu",
+      "source": "prebuilt",
+      "sha256": "763a938ed2fdd224b9cb8ad606d02aabc93a0e3fb7a5e5e9caafa0ec8c05d422"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/is",
+      "source": "prebuilt",
+      "sha256": "6eb4e5bd93ca2f7a2059a31fd014444108eb684ecd97902da2492b0a0f6e3cdc"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/it",
+      "source": "prebuilt",
+      "sha256": "12d090cdcb6af0e95a0c0330b8b7f0ac0446ab8cf7140b4f8c6c797c08e9c219"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/ja",
+      "source": "prebuilt",
+      "sha256": "a4561aefcc2fd2f4ba01604001c9c0dc67469514ea0a665063b72e79d5d9c687"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/lt",
+      "source": "prebuilt",
+      "sha256": "0bfc98e913451c0b9082d0317deffa03c6f0c53a1422cb4f4c1ef64dc3939d2f"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/lv",
+      "source": "prebuilt",
+      "sha256": "be4f1e28325ae2ea927bd51e31863a327e64c0a938725fd02c2a7260660bdf77"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/mk",
+      "source": "prebuilt",
+      "sha256": "71068ffe163ce6684b35f423e897e00c97debe0c3df555c43d26b46a79ca68e7"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/nl",
+      "source": "prebuilt",
+      "sha256": "70cb1b41f184d61520867e639e6b69cddea4b0e2458c5502c7c40512301876c7"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/no",
+      "source": "prebuilt",
+      "sha256": "95b3fe5258264b827ba01acc7a774bd9edbaec52c54e582a0737c33087a92514"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/pl",
+      "source": "prebuilt",
+      "sha256": "5f3da802f81f385c58179272e48c4f8680dfdfe55383c504a6d84b3b7a8aadfb"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/pt",
+      "source": "prebuilt",
+      "sha256": "29161e1b8b61b761c3f3bff237ca73ce4ee3316a99090890b32469824b5eed8a"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/pt-br",
+      "source": "prebuilt",
+      "sha256": "fbb9491c0bfc4253cced9d8a20965aca98d0249c4626fe6e7d31358b24e34e8d"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/ru",
+      "source": "prebuilt",
+      "sha256": "afa015a736cd935fc38a0df62fd6ab2f3c64b44c48b3e6d95969cbbfcdc43e91"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/sl",
+      "source": "prebuilt",
+      "sha256": "bea8fe8ac0ca281038ac0e1788c39f090507ff0646bd4f57cc18f6873b030147"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/sv",
+      "source": "prebuilt",
+      "sha256": "97731fbe91f254d81c005ffc232180a8dd7baeb6d699f0f0fc15e341672f96b3"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/th",
+      "source": "prebuilt",
+      "sha256": "6dd9562a2b10c81f658ad96075fd87832777e87357620e89c7d070e4097fbbb9"
+    },
+    {
+      "file": "usr/share/qemu/keymaps/tr",
+      "source": "prebuilt",
+      "sha256": "f59f8cc154f0dc8b45166b524b9c1e649ba027e39381aac286663ad2227ddce8"
     }
   ]
 }
