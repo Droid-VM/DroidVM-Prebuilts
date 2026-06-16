@@ -8,7 +8,7 @@
     {
       "file": "usr/bin/crosvm",
       "source": "prebuilt",
-      "sha256": "4b3e78db61d4774105a08e4377df9fbc233933d5bb7ac40682088e2f73f95065"
+      "sha256": "73856435d354c9db783fd7441dbd6373b080056f25e0981eb59d42ce015431c8"
     },
     {
       "file": "usr/bin/magisk",
@@ -183,7 +183,7 @@
     {
       "file": "usr/share/droidvm/initramfs.img",
       "source": "prebuilt",
-      "sha256": "eb98a6ad39394434b499c8066d097e83b865fb70ff6a16fea8b8e3f358ea80fd"
+      "sha256": "0e5a5ea7727ccda488ffc112b382db7d28cbfbea1053d634e9abcf3c47f285d4"
     },
     {
       "file": "usr/share/droidvm/vmlinuz",
