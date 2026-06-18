@@ -1,6 +1,31 @@
 {
   "hash": [
     {
+      "file": "bin/bridgedhcp",
+      "source": "prebuilt",
+      "sha256": "ee1a937f3e84aef4fd9c6cd916113624f0b6e39f0fd447e6263b0a0c66a081bb"
+    },
+    {
+      "file": "bin/gvswitch",
+      "source": "prebuilt",
+      "sha256": "fc3f06182ef01374815696588bf755e594c2ddb5a5c3fb6ec746467041f5fb5d"
+    },
+    {
+      "file": "bin/lbx",
+      "source": "prebuilt",
+      "sha256": "b894873802155ab79d2c85d37e630018f88728234a196a51eb1a3cc30e38cbba"
+    },
+    {
+      "file": "bin/netbox",
+      "source": "prebuilt",
+      "sha256": "4cd14312a1629cfb917feb6f507a779fb9d6c803cf1fa2c370353e30437d1c5e"
+    },
+    {
+      "file": "bin/pbridge",
+      "source": "prebuilt",
+      "sha256": "531b17756867fd8311ac16f02a5d2d812908269387223ec690c37ac498f72b61"
+    },
+    {
       "file": "usr/bin/busybox",
       "source": "prebuilt",
       "sha256": "4d60ab3f5a59ebb2ca863f2f514e6924401b581e9b64f602665c008177626651"
