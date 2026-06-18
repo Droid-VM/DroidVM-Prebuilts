@@ -8,7 +8,7 @@
     {
       "file": "bin/gvswitch",
       "source": "prebuilt",
-      "sha256": "fc3f06182ef01374815696588bf755e594c2ddb5a5c3fb6ec746467041f5fb5d"
+      "sha256": "7afbf0ccf7e6a30019bf1a9da2ebd17d42a99bbb21cd28e82f63fc35ce195c66"
     },
     {
       "file": "bin/lbx",
@@ -193,7 +193,7 @@
     {
       "file": "usr/share/droidvm/edk2-gunyah.fd",
       "source": "prebuilt",
-      "sha256": "efc043af4dc2a05718fa7ab81bc60da81f178149657e0a54e5b52e1058f2797c"
+      "sha256": "51950749bff778cdeb3080d0ec010f818a013b32d952e6a26d579497dd903ba5"
     },
     {
       "file": "usr/share/droidvm/edk2-gunyah.vars.fd",
