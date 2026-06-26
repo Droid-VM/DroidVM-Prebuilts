@@ -33,7 +33,7 @@
     {
       "file": "usr/bin/crosvm",
       "source": "prebuilt",
-      "sha256": "73856435d354c9db783fd7441dbd6373b080056f25e0981eb59d42ce015431c8"
+      "sha256": "7fececc2bae323f0d59d2b5632bd0d60f39f5dacaed92786a7baaa48013074bb"
     },
     {
       "file": "usr/bin/magisk",
@@ -79,6 +79,11 @@
       "file": "usr/lib/android.hardware.graphics.common-V6-ndk.so",
       "source": "prebuilt",
       "sha256": "b46ccd85d8c855a6f0cdc5604aa0aa6ff66710f0033b6ca55dc32f714529b837"
+    },
+    {
+      "file": "usr/lib/android.hardware.graphics.common-V7-ndk.so",
+      "source": "prebuilt",
+      "sha256": "86694d140d27aa948039fe8a50db06f894511bfd0a4b8bdaf6403df13c82d459"
     },
     {
       "file": "usr/lib/libapexsupport.so",
@@ -134,6 +139,11 @@
       "file": "usr/lib/libgobject-2.0.so",
       "source": "prebuilt",
       "sha256": "e0155c33ee6b20cd828efded973038425142fc93ea84f742eb23a7099679f2c8"
+    },
+    {
+      "file": "usr/lib/libgui.so",
+      "source": "prebuilt",
+      "sha256": "57e0c2c6b56c7756be35692cbb22e61fd1da77e19e01556b4299b1e7136f5bfa"
     },
     {
       "file": "usr/lib/libintl.so",
