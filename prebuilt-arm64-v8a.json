@@ -33,7 +33,7 @@
     {
       "file": "usr/bin/crosvm",
       "source": "prebuilt",
-      "sha256": "7fececc2bae323f0d59d2b5632bd0d60f39f5dacaed92786a7baaa48013074bb"
+      "sha256": "884091dbd1dac30f253243e745f5b9ef8e6f15127dc1c97cb89761d147584814"
     },
     {
       "file": "usr/bin/magisk",
@@ -71,44 +71,14 @@
       "sha256": "c897f9eecf9511db93bc4c0a290989f59b4c4fb37a1425e204573eccce10940d"
     },
     {
-      "file": "usr/lib/android.hardware.graphics.allocator-V2-ndk.so",
-      "source": "prebuilt",
-      "sha256": "f4260e4d7d5a5dcc418269ffe97d0245f07721401e32b08cc944a2fd316af31b"
-    },
-    {
-      "file": "usr/lib/android.hardware.graphics.common-V6-ndk.so",
-      "source": "prebuilt",
-      "sha256": "b46ccd85d8c855a6f0cdc5604aa0aa6ff66710f0033b6ca55dc32f714529b837"
-    },
-    {
       "file": "usr/lib/android.hardware.graphics.common-V7-ndk.so",
       "source": "prebuilt",
       "sha256": "86694d140d27aa948039fe8a50db06f894511bfd0a4b8bdaf6403df13c82d459"
     },
     {
-      "file": "usr/lib/libapexsupport.so",
-      "source": "prebuilt",
-      "sha256": "e1cfb299f8d16cba0e2f87f0163b82cc7d6cdfab53085c389782e8b48701cd12"
-    },
-    {
-      "file": "usr/lib/libbinder.so",
-      "source": "prebuilt",
-      "sha256": "161b4b0c6149e702bed9d28913b1bfe2d0452f77ee92b8857f9fc726301dc785"
-    },
-    {
-      "file": "usr/lib/libbinder_ndk.so",
-      "source": "prebuilt",
-      "sha256": "fd2c5666a1655dd63aff5c9ac25ad23658d9ae5d4550d34b0715e400d95ec70b"
-    },
-    {
-      "file": "usr/lib/libc++.so",
-      "source": "prebuilt",
-      "sha256": "f9811cd170c55e2f2d7a2151eb830ba6c9d04018f44ddf2492ee3eb26893d467"
-    },
-    {
       "file": "usr/lib/libepoxy.so",
       "source": "prebuilt",
-      "sha256": "4a81b266a0c55c98b012858f684c9b4922b1c6b43a617f5919840a9f3ca8c55d"
+      "sha256": "87b31a3584d500c36fb71d82c7c3ec6c8d5308b78cd10a6bcef0ee8b52c567c7"
     },
     {
       "file": "usr/lib/libffi.so",
@@ -118,17 +88,17 @@
     {
       "file": "usr/lib/libgfxstream_backend.so",
       "source": "prebuilt",
-      "sha256": "c3e4042b51a699a69d73173f10b0b5e27e7468a5482525f4ffd212f90a29ca64"
+      "sha256": "718a4b4d355f4995a57896de4c7024300f3d60e8db76c6642999c013184dd68f"
     },
     {
       "file": "usr/lib/libgio-2.0.so",
       "source": "prebuilt",
-      "sha256": "43279436717fd132c416e5876823c96b00e39a84e56b4f72ec9318e8dd44afc3"
+      "sha256": "cc5eabe2ab7ac2d160e95667ed69bb6b7c33813e4534030436a40129de5200d0"
     },
     {
       "file": "usr/lib/libglib-2.0.so",
       "source": "prebuilt",
-      "sha256": "9638b1833d06bb938eb9f50301937ff2ea5316a26c05159cb05368e84dd93b51"
+      "sha256": "bbce0a767e85eaedaae16ea132d6fb1b9de3530b3bf67eee4c1423873577c770"
     },
     {
       "file": "usr/lib/libgmodule-2.0.so",
@@ -138,7 +108,7 @@
     {
       "file": "usr/lib/libgobject-2.0.so",
       "source": "prebuilt",
-      "sha256": "e0155c33ee6b20cd828efded973038425142fc93ea84f742eb23a7099679f2c8"
+      "sha256": "76eaf9ce0fa0c74232ab23c624cfd04e6c41099eb0f4f1b926296043438dfa67"
     },
     {
       "file": "usr/lib/libgui.so",
@@ -151,34 +121,24 @@
       "sha256": "634c477bb82b6b053f8092206b6c4837b96cf9af8a5e903b5b1e946005028194"
     },
     {
-      "file": "usr/lib/libnativewindow.so",
-      "source": "prebuilt",
-      "sha256": "6bcf6960a54623c3d5f0f90c896374f68f2464444f65088fb668a0a859ce08d1"
-    },
-    {
       "file": "usr/lib/libpcre2-8.so",
       "source": "prebuilt",
-      "sha256": "7501a65b85203d6fa987f2f8acde5d569511d0285e4502b3cb7ec67e062b1fd3"
+      "sha256": "1f971450584ed9812e3ae70a847f060f2db5d666ec92e3f6f187a632664909e1"
     },
     {
       "file": "usr/lib/libpixman-1.so",
       "source": "prebuilt",
-      "sha256": "f1e0fdd11b370f987b824662f8ca527ea5b2c193a72efa40cfffc0ddc83c7cde"
+      "sha256": "63f9c470fe9a786a3596cf94d2d4689f8aa1908be1127cc111d1211ddd889a37"
     },
     {
       "file": "usr/lib/librutabaga_gfx_ffi.so",
       "source": "prebuilt",
-      "sha256": "5935d98b14731c5dfc8d7fd0447dc76c9aaedd34c67388d04e97cb2d64ba592e"
+      "sha256": "aed0424b7c26f02d1fb94ea4db6bff2026ce05bf5ce0c8dcca6036531970cca5"
     },
     {
       "file": "usr/lib/libslirp.so",
       "source": "prebuilt",
-      "sha256": "e9a35c092ca0924b79d2c6f4741bd9cb812f71713b405a7f942c70e7725431f6"
-    },
-    {
-      "file": "usr/lib/libui.so",
-      "source": "prebuilt",
-      "sha256": "8505eb920a3829bc8c5c955c5fdf8b244a59af3bac4e5bc59811a5daef665702"
+      "sha256": "0225a0b988cf3e82ae2ca28828861c05b7151a94498ceb095462e038242b5e96"
     },
     {
       "file": "usr/lib/libusb-1.0.so",
@@ -188,12 +148,12 @@
     {
       "file": "usr/lib/libvirglrenderer.so",
       "source": "prebuilt",
-      "sha256": "d327a4f1f4348f0c70f93ccac31a1c9ea1350bbd3c756f8208a5134c41832a40"
+      "sha256": "416b4d1d2ec931c25768dc828fb0fa584dd2c4223402694aac010bff9c39e48e"
     },
     {
       "file": "usr/lib/libvncserver.so",
       "source": "prebuilt",
-      "sha256": "9d766e9b5920ee21c8694442904e93070263f1af08c1e6b362be6ca9068abc6a"
+      "sha256": "7cfc589ec40efe1a2b6bc6232ccc86da8cce718ae7c8e12a4b1fcd8b7e44991b"
     },
     {
       "file": "usr/share/droidvm/agent/run.sh",
