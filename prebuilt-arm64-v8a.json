@@ -18,7 +18,7 @@
     {
       "file": "bin/netbox",
       "source": "prebuilt",
-      "sha256": "58832411c0c4945b5fb8c0f3e1822f3f193ea60fda2df7ce6390dc23d28fcdfa"
+      "sha256": "ac7564fdfb76d039408a462bc7e266a0ec9037346cbb8e3cd5acf4f70fcda2a0"
     },
     {
       "file": "bin/pbridge",
