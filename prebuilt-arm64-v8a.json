@@ -163,7 +163,7 @@
     {
       "file": "usr/share/droidvm/edk2-gunyah.fd",
       "source": "prebuilt",
-      "sha256": "894ebc9e96ca9e5616d93800e0247d894cb6a332c84012c6b3fe4b1e8e173e65"
+      "sha256": "ff65557790e397120a43d2aef2e79d14760052879f37ed0a757b46554a2840c3"
     },
     {
       "file": "usr/share/droidvm/edk2-gunyah.vars.fd",
