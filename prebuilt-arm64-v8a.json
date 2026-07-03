@@ -23,7 +23,7 @@
     {
       "file": "bin/pbridge",
       "source": "prebuilt",
-      "sha256": "531b17756867fd8311ac16f02a5d2d812908269387223ec690c37ac498f72b61"
+      "sha256": "96837f6df4386fa36bdc1e883146e57114a18923ebe160c97cba535e85c14356"
     },
     {
       "file": "usr/bin/busybox",
