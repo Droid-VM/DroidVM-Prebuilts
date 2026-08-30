@@ -3,27 +3,27 @@
     {
       "file": "bin/bridgedhcp",
       "source": "prebuilt",
-      "sha256": "ee1a937f3e84aef4fd9c6cd916113624f0b6e39f0fd447e6263b0a0c66a081bb"
+      "sha256": "0935311b4b806fa68195bf10eb647247920b333ac70d4a609cbf223ff82085ce"
     },
     {
       "file": "bin/gvswitch",
       "source": "prebuilt",
-      "sha256": "7afbf0ccf7e6a30019bf1a9da2ebd17d42a99bbb21cd28e82f63fc35ce195c66"
+      "sha256": "c4731710ea32c8a105b5af44d08a2fa72f32961d5e84f990e4b308b0bab80c58"
     },
     {
       "file": "bin/lbx",
       "source": "prebuilt",
-      "sha256": "b894873802155ab79d2c85d37e630018f88728234a196a51eb1a3cc30e38cbba"
+      "sha256": "e47086086fdc620d63e3fec03281f48c70629f0fba09903e67d24e162079be1e"
     },
     {
       "file": "bin/netbox",
       "source": "prebuilt",
-      "sha256": "ac7564fdfb76d039408a462bc7e266a0ec9037346cbb8e3cd5acf4f70fcda2a0"
+      "sha256": "bfe99fa479cb8728fc1d420497580a2d5c05ebd0756619de0eb74f0f292c187f"
     },
     {
       "file": "bin/pbridge",
       "source": "prebuilt",
-      "sha256": "06617c2f9985cb978de09af195d6b0cdc7a37e86f95682cb1e50255858f9cde8"
+      "sha256": "bd0d5b3b1ebca491962e12da3ef8b08a8b4ed9fed243deccd0f8bb43f52578de"
     },
     {
       "file": "usr/bin/busybox",
@@ -33,7 +33,12 @@
     {
       "file": "usr/bin/crosvm",
       "source": "prebuilt",
-      "sha256": "e1e2d44f6594adff2360bac4eaa30449bedbe303cd960bbdcc1694e08a6cd034"
+      "sha256": "59c0132b4f9c6b09991fae2a615c4034c65747a1b95b447bf6c81b2c7658fc45"
+    },
+    {
+      "file": "usr/bin/crosvm.bak1400",
+      "source": "prebuilt",
+      "sha256": "a767c59bef29cb646469b7b87826b1a1e5ee6f8fbe6586960a9d04a6a70473a6"
     },
     {
       "file": "usr/bin/magisk",
@@ -76,6 +81,26 @@
       "sha256": "86694d140d27aa948039fe8a50db06f894511bfd0a4b8bdaf6403df13c82d459"
     },
     {
+      "file": "usr/lib/libbase.so",
+      "source": "prebuilt",
+      "sha256": "73ad1a5b1c773c26f7478507c53b8dd187e8b08d32347c7e9cc8738beaf29a1d"
+    },
+    {
+      "file": "usr/lib/libc++.so",
+      "source": "prebuilt",
+      "sha256": "dd327fb7c8d4abcb0fbb5bb839a946d365102af120466b956637e3559f4353e8"
+    },
+    {
+      "file": "usr/lib/libcap.so",
+      "source": "prebuilt",
+      "sha256": "04b5a68356e5d90d7bd73704d283de89dc32972e801e0a9499b2c8faed8ea2ef"
+    },
+    {
+      "file": "usr/lib/libcutils.so",
+      "source": "prebuilt",
+      "sha256": "9b374ee11e75e4902c1ce68a6bd9f4fba6c25b42a12ae2cac7653b2ea09ae23e"
+    },
+    {
       "file": "usr/lib/libepoxy.so",
       "source": "prebuilt",
       "sha256": "87b31a3584d500c36fb71d82c7c3ec6c8d5308b78cd10a6bcef0ee8b52c567c7"
@@ -88,7 +113,7 @@
     {
       "file": "usr/lib/libgfxstream_backend.so",
       "source": "prebuilt",
-      "sha256": "718a4b4d355f4995a57896de4c7024300f3d60e8db76c6642999c013184dd68f"
+      "sha256": "dc6545403f78c0214b2070567076b5be7435096367f6290e76a18a6b5c2abe01"
     },
     {
       "file": "usr/lib/libgio-2.0.so",
@@ -111,14 +136,24 @@
       "sha256": "76eaf9ce0fa0c74232ab23c624cfd04e6c41099eb0f4f1b926296043438dfa67"
     },
     {
-      "file": "usr/lib/libgui.so",
-      "source": "prebuilt",
-      "sha256": "57e0c2c6b56c7756be35692cbb22e61fd1da77e19e01556b4299b1e7136f5bfa"
-    },
-    {
       "file": "usr/lib/libintl.so",
       "source": "prebuilt",
       "sha256": "634c477bb82b6b053f8092206b6c4837b96cf9af8a5e903b5b1e946005028194"
+    },
+    {
+      "file": "usr/lib/liblog.so",
+      "source": "prebuilt",
+      "sha256": "951d4fe96e7a187e16b8c0d02d14bad6eabc955da8a2ef084c358ca48ad97867"
+    },
+    {
+      "file": "usr/lib/libminijail.so",
+      "source": "prebuilt",
+      "sha256": "a1a5b5da789014486840886a8f8415933c8f28c4a9180fdf9d2788e4bd5edeb0"
+    },
+    {
+      "file": "usr/lib/libnativewindow.so",
+      "source": "prebuilt",
+      "sha256": "68833778b5376a33d8cb9a590002e92886000150cdc870ac787434c0db42bc9b"
     },
     {
       "file": "usr/lib/libpcre2-8.so",
@@ -129,6 +164,11 @@
       "file": "usr/lib/libpixman-1.so",
       "source": "prebuilt",
       "sha256": "63f9c470fe9a786a3596cf94d2d4689f8aa1908be1127cc111d1211ddd889a37"
+    },
+    {
+      "file": "usr/lib/libprocessgroup.so",
+      "source": "prebuilt",
+      "sha256": "cf9ec2cdd9af814b5ba66e4415e7b1663e5d47bce8fb3e4ffd1d5e2bd36a812f"
     },
     {
       "file": "usr/lib/librutabaga_gfx_ffi.so",
@@ -148,12 +188,92 @@
     {
       "file": "usr/lib/libvirglrenderer.so",
       "source": "prebuilt",
-      "sha256": "416b4d1d2ec931c25768dc828fb0fa584dd2c4223402694aac010bff9c39e48e"
+      "sha256": "d2220134993645d93a2ad1a1b6981ea18edb55aacf8011b15125b7342c6eefd1"
     },
     {
       "file": "usr/lib/libvncserver.so",
       "source": "prebuilt",
-      "sha256": "7cfc589ec40efe1a2b6bc6232ccc86da8cce718ae7c8e12a4b1fcd8b7e44991b"
+      "sha256": "eaf7d95c7f4fe0ca8a935192442f332e9313ba51563c5990a063759348eeeb00"
+    },
+    {
+      "file": "usr/lib/libvulkan_freedreno.so",
+      "source": "prebuilt",
+      "sha256": "4da23d5d1ab39a8ab09f059dd28652820e50d4c5445d26b8bdd16a059620a695"
+    },
+    {
+      "file": "usr/lib/modules/android14-6.1/gh-unmovable-gki-6.1.ko",
+      "source": "prebuilt",
+      "sha256": "18bb34c6b8150b734dbae31858cd5fe35d10dd19b0c863ad56ca3434f9175da7"
+    },
+    {
+      "file": "usr/lib/modules/android14-6.1/gunyah-host-share-gki-6.1.ko",
+      "source": "prebuilt",
+      "sha256": "1207b936941cdf15f0c6bf3109cbd3107b5df02cda5143f990602c0796ac77d9"
+    },
+    {
+      "file": "usr/lib/modules/android14-6.1/gunyah-kvcalloc-gki-6.1.ko",
+      "source": "prebuilt",
+      "sha256": "a54c845906888c1722ca9c6b3c7fd8c8c80419f7f7410e2716d63d076306a116"
+    },
+    {
+      "file": "usr/lib/modules/android14-6.1/udmabuf-gki-6.1.ko",
+      "source": "prebuilt",
+      "sha256": "902c85a4cc369da642e426f2b6ffd46265d52967061d885dd908b493373e92e1"
+    },
+    {
+      "file": "usr/lib/modules/android15-6.6/gh-unmovable-gki-6.6.ko",
+      "source": "prebuilt",
+      "sha256": "b6e5f9c2a422b7e1c3e3738a6005478babe55c11275e377de4aa9b3db1fc546f"
+    },
+    {
+      "file": "usr/lib/modules/android15-6.6/gunyah-host-share-gki-6.6.ko",
+      "source": "prebuilt",
+      "sha256": "9e9e52449b169151e32918c9c86ecf17e3249b33d265ee8efd6ed8adad442e17"
+    },
+    {
+      "file": "usr/lib/modules/android15-6.6/udmabuf-gki-6.6.ko",
+      "source": "prebuilt",
+      "sha256": "7309744e943513305f0918f4b953a3d31ae12dece9847b8d8d178c5a969c8cf0"
+    },
+    {
+      "file": "usr/lib/modules/android16-6.12/gh-unmovable-gki-6.12.ko",
+      "source": "prebuilt",
+      "sha256": "358519615070152f2c560f7717784f2021937c848d702389f0f4910f7bb1f964"
+    },
+    {
+      "file": "usr/lib/modules/android16-6.12/gunyah-host-share-gki-6.12.ko",
+      "source": "prebuilt",
+      "sha256": "5094227e43d6defa339001a7fd24f58e5130edbd51e7cc4397ef5f6646013fed"
+    },
+    {
+      "file": "usr/lib/modules/android16-6.12/udmabuf-gki-6.12.ko",
+      "source": "prebuilt",
+      "sha256": "8cdb436b7e28fabab24848b06c5e2ada7d29c0dfe173ef1ae7f9cdc568b84c4e"
+    },
+    {
+      "file": "usr/lib/modules/descr/gh_unmovable.html",
+      "source": "prebuilt",
+      "sha256": "a700085c3445cf3ad1c09fd1994116f00b2ab575da3c1dfad0a3711c9954d040"
+    },
+    {
+      "file": "usr/lib/modules/descr/gunyah_host_share.html",
+      "source": "prebuilt",
+      "sha256": "a1a4ef4bfea3baa59d2332411d937620f1273c26febb8307bebfde4701f6c065"
+    },
+    {
+      "file": "usr/lib/modules/descr/gunyah_kvcalloc.html",
+      "source": "prebuilt",
+      "sha256": "afb26dcacb535a00aa001e27d761593dc98bbdf532a11405b10a37086c1e14f6"
+    },
+    {
+      "file": "usr/lib/modules/descr/udmabuf.html",
+      "source": "prebuilt",
+      "sha256": "75d4d4303f499b9cbe19a8d1434e3b4a63593fee5dec70d27884dbd7d8b151b3"
+    },
+    {
+      "file": "usr/lib/modules/match.json",
+      "source": "prebuilt",
+      "sha256": "bf318f1a7d58f72ad053c600b5362e91b0ee94655462528e9a5691a3339a9ad4"
     },
     {
       "file": "usr/share/droidvm/agent/run.sh",
@@ -163,7 +283,7 @@
     {
       "file": "usr/share/droidvm/edk2-gunyah.fd",
       "source": "prebuilt",
-      "sha256": "ff65557790e397120a43d2aef2e79d14760052879f37ed0a757b46554a2840c3"
+      "sha256": "03074b996ae60c6dc5d30b1fb0234ee3d19c602fe6813857cf00a099a6470a5f"
     },
     {
       "file": "usr/share/droidvm/edk2-gunyah.vars.fd",
