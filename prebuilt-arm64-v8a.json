@@ -13,7 +13,7 @@
     {
       "file": "bin/lbx",
       "source": "prebuilt",
-      "sha256": "e47086086fdc620d63e3fec03281f48c70629f0fba09903e67d24e162079be1e"
+      "sha256": "994977cb5277c5dfedf160d4ee12c671d443a956ef428b249ec2d1e6887b2768"
     },
     {
       "file": "bin/netbox",
@@ -33,7 +33,7 @@
     {
       "file": "usr/bin/crosvm",
       "source": "prebuilt",
-      "sha256": "9ea8b09095739ccfb051e57c577ffa2b8b2ab4eedff779b852fdc5fbbc1a3fc0"
+      "sha256": "ee531987e942dc2ed22441d915e6d6a403a8761a3bc1f70683fea2742dcd1334"
     },
     {
       "file": "usr/bin/crosvm.bak1400",
@@ -263,7 +263,7 @@
     {
       "file": "usr/share/droidvm/edk2-gunyah.fd",
       "source": "prebuilt",
-      "sha256": "15f434a973cb7795c0253046729252744c3fd7989e5fa31959c5a49f85d850f8"
+      "sha256": "21b9749d87541200d805473cc3257eb98801e9882228e9d64ecdeaf16ecef227"
     },
     {
       "file": "usr/share/droidvm/edk2-gunyah.vars.fd",
