@@ -33,7 +33,12 @@
     {
       "file": "usr/bin/crosvm",
       "source": "prebuilt",
-      "sha256": "cd3693ba876720f7ab7c08e5d6358101336f3bbcdb3d7d4f324ac29274bf6a7b"
+      "sha256": "4b7bf7b1e49e57c116bb6f328027592700c5202758f9b190ce7262f22e89eec7"
+    },
+    {
+      "file": "usr/bin/crosvm.bak1400",
+      "source": "prebuilt",
+      "sha256": "a767c59bef29cb646469b7b87826b1a1e5ee6f8fbe6586960a9d04a6a70473a6"
     },
     {
       "file": "usr/bin/magisk",
@@ -258,7 +263,7 @@
     {
       "file": "usr/share/droidvm/edk2-gunyah.fd",
       "source": "prebuilt",
-      "sha256": "21b9749d87541200d805473cc3257eb98801e9882228e9d64ecdeaf16ecef227"
+      "sha256": "15f434a973cb7795c0253046729252744c3fd7989e5fa31959c5a49f85d850f8"
     },
     {
       "file": "usr/share/droidvm/edk2-gunyah.vars.fd",
