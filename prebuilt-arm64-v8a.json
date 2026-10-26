@@ -143,7 +143,7 @@
     {
       "file": "usr/lib/libvirglrenderer.so",
       "source": "prebuilt",
-      "sha256": "40b5edaa7c722b801b2b08d2f2d64fd55e56bebf62baec2dbb17e662a49f633d"
+      "sha256": "f89e3bb964b4cb002a1512df32e4f54873fb9dba9c43bf6dc59cd48af53dfb3f"
     },
     {
       "file": "usr/lib/libvncserver.so",
