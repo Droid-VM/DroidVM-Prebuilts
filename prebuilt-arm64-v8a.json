@@ -33,7 +33,7 @@
     {
       "file": "usr/bin/crosvm",
       "source": "prebuilt",
-      "sha256": "cd3693ba876720f7ab7c08e5d6358101336f3bbcdb3d7d4f324ac29274bf6a7b"
+      "sha256": "9f28f30bf66eae4b4fe0178299c8ecab93a96c94d4a1b4eb1e0255c7cadce1cf"
     },
     {
       "file": "usr/bin/magisk",
