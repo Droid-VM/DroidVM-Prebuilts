@@ -3,27 +3,27 @@
     {
       "file": "bin/bridgedhcp",
       "source": "prebuilt",
-      "sha256": "0935311b4b806fa68195bf10eb647247920b333ac70d4a609cbf223ff82085ce"
+      "sha256": "a145ff6c88799eeaca93edff97cd2a15587d9dfb4105dbdd6c010fbb7ce4a8da"
     },
     {
       "file": "bin/gvswitch",
       "source": "prebuilt",
-      "sha256": "c4731710ea32c8a105b5af44d08a2fa72f32961d5e84f990e4b308b0bab80c58"
+      "sha256": "13178f06108bea878e183498b248cd64d6095162097ec6a67659b4ad667f2b2a"
     },
     {
       "file": "bin/lbx",
       "source": "prebuilt",
-      "sha256": "994977cb5277c5dfedf160d4ee12c671d443a956ef428b249ec2d1e6887b2768"
+      "sha256": "e6db045a76e92611d81182118a245a15aff8c32f56247f939fceec8c1ffe4dec"
     },
     {
       "file": "bin/netbox",
       "source": "prebuilt",
-      "sha256": "783d291cd11ddbc6414e8978687186c3d2010693049bb64209bd14f64eda03bc"
+      "sha256": "366eeadb01ba5b1c42a4cb327750c4be006427c6f589d57ca30cf95667b22814"
     },
     {
       "file": "bin/pbridge",
       "source": "prebuilt",
-      "sha256": "bd0d5b3b1ebca491962e12da3ef8b08a8b4ed9fed243deccd0f8bb43f52578de"
+      "sha256": "8afac80087d6492ade49aac84506316e66ea4c353e01b0b064e02308f35d8650"
     },
     {
       "file": "usr/bin/busybox",
@@ -33,7 +33,7 @@
     {
       "file": "usr/bin/crosvm",
       "source": "prebuilt",
-      "sha256": "cd3693ba876720f7ab7c08e5d6358101336f3bbcdb3d7d4f324ac29274bf6a7b"
+      "sha256": "7994700ebe50b88d81ff86c8f1a1765912081ba162d976276139b6da2ae57bbd"
     },
     {
       "file": "usr/bin/magisk",
