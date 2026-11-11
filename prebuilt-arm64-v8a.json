@@ -186,11 +186,6 @@
       "sha256": "b6e5f9c2a422b7e1c3e3738a6005478babe55c11275e377de4aa9b3db1fc546f"
     },
     {
-      "file": "usr/lib/modules/android15-6.6/gunyah-halt-poll-gki-6.6.ko",
-      "source": "prebuilt",
-      "sha256": "c3adc55e4260282f060224bed3d6a8d2e8042d3afc23f61158be3d3e142848ea"
-    },
-    {
       "file": "usr/lib/modules/android15-6.6/gunyah-host-share-gki-6.6.ko",
       "source": "prebuilt",
       "sha256": "347dd90c4ece9faa6ab45dd6a77b811d39eb84ea1205bb2eeabb2c1fa32833bd"
@@ -231,11 +226,6 @@
       "sha256": "a700085c3445cf3ad1c09fd1994116f00b2ab575da3c1dfad0a3711c9954d040"
     },
     {
-      "file": "usr/lib/modules/descr/gunyah_halt_poll.html",
-      "source": "prebuilt",
-      "sha256": "6752e7fb4997efc071e20ac9aa1954a3030391122d5636ce196d338838126a5c"
-    },
-    {
       "file": "usr/lib/modules/descr/gunyah_host_share.html",
       "source": "prebuilt",
       "sha256": "a1a4ef4bfea3baa59d2332411d937620f1273c26febb8307bebfde4701f6c065"
@@ -258,7 +248,7 @@
     {
       "file": "usr/lib/modules/match.json",
       "source": "prebuilt",
-      "sha256": "b49e8d0bc6db60f8af70be2bc6f5d995cdb179830cf3235562b83a6cd4a230e3"
+      "sha256": "f840d4408156d8d8f12462b18a76873adc74e8bcf890b3cdfc74d6bebde35af6"
     },
     {
       "file": "usr/share/droidvm/agent/run.sh",
