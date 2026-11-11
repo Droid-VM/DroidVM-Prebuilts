@@ -3,27 +3,27 @@
     {
       "file": "bin/bridgedhcp",
       "source": "prebuilt",
-      "sha256": "0935311b4b806fa68195bf10eb647247920b333ac70d4a609cbf223ff82085ce"
+      "sha256": "1dc4231c8ce06a5ad23f0e529e61711beb5941d856d87f6aebff0aee6a174e51"
     },
     {
       "file": "bin/gvswitch",
       "source": "prebuilt",
-      "sha256": "c4731710ea32c8a105b5af44d08a2fa72f32961d5e84f990e4b308b0bab80c58"
+      "sha256": "945f680faeb5e5755233f4fae64214f23a25ef1b68ed10a6227346f24100dd0d"
     },
     {
       "file": "bin/lbx",
       "source": "prebuilt",
-      "sha256": "994977cb5277c5dfedf160d4ee12c671d443a956ef428b249ec2d1e6887b2768"
+      "sha256": "e6db045a76e92611d81182118a245a15aff8c32f56247f939fceec8c1ffe4dec"
     },
     {
       "file": "bin/netbox",
       "source": "prebuilt",
-      "sha256": "783d291cd11ddbc6414e8978687186c3d2010693049bb64209bd14f64eda03bc"
+      "sha256": "366eeadb01ba5b1c42a4cb327750c4be006427c6f589d57ca30cf95667b22814"
     },
     {
       "file": "bin/pbridge",
       "source": "prebuilt",
-      "sha256": "bd0d5b3b1ebca491962e12da3ef8b08a8b4ed9fed243deccd0f8bb43f52578de"
+      "sha256": "6c9a04bed70ec315b13a4a098fec209943fb3117f02f2c6726fa5457c42a115b"
     },
     {
       "file": "usr/bin/busybox",
@@ -33,7 +33,7 @@
     {
       "file": "usr/bin/crosvm",
       "source": "prebuilt",
-      "sha256": "cd3693ba876720f7ab7c08e5d6358101336f3bbcdb3d7d4f324ac29274bf6a7b"
+      "sha256": "7994700ebe50b88d81ff86c8f1a1765912081ba162d976276139b6da2ae57bbd"
     },
     {
       "file": "usr/bin/magisk",
@@ -186,6 +186,11 @@
       "sha256": "b6e5f9c2a422b7e1c3e3738a6005478babe55c11275e377de4aa9b3db1fc546f"
     },
     {
+      "file": "usr/lib/modules/android15-6.6/gunyah-halt-poll-gki-6.6.ko",
+      "source": "prebuilt",
+      "sha256": "c3adc55e4260282f060224bed3d6a8d2e8042d3afc23f61158be3d3e142848ea"
+    },
+    {
       "file": "usr/lib/modules/android15-6.6/gunyah-host-share-gki-6.6.ko",
       "source": "prebuilt",
       "sha256": "347dd90c4ece9faa6ab45dd6a77b811d39eb84ea1205bb2eeabb2c1fa32833bd"
@@ -226,6 +231,11 @@
       "sha256": "a700085c3445cf3ad1c09fd1994116f00b2ab575da3c1dfad0a3711c9954d040"
     },
     {
+      "file": "usr/lib/modules/descr/gunyah_halt_poll.html",
+      "source": "prebuilt",
+      "sha256": "6752e7fb4997efc071e20ac9aa1954a3030391122d5636ce196d338838126a5c"
+    },
+    {
       "file": "usr/lib/modules/descr/gunyah_host_share.html",
       "source": "prebuilt",
       "sha256": "a1a4ef4bfea3baa59d2332411d937620f1273c26febb8307bebfde4701f6c065"
@@ -248,7 +258,7 @@
     {
       "file": "usr/lib/modules/match.json",
       "source": "prebuilt",
-      "sha256": "f840d4408156d8d8f12462b18a76873adc74e8bcf890b3cdfc74d6bebde35af6"
+      "sha256": "b49e8d0bc6db60f8af70be2bc6f5d995cdb179830cf3235562b83a6cd4a230e3"
     },
     {
       "file": "usr/share/droidvm/agent/run.sh",
