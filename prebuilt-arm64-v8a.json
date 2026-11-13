@@ -3,12 +3,12 @@
     {
       "file": "bin/bridgedhcp",
       "source": "prebuilt",
-      "sha256": "7bf5fe1e3c7d18c237b6870752871d52d74e9c8a066515af042b9be08b8ca213"
+      "sha256": "aebd0ffbf243602c615a5cfb5523d80d8ece40a9ff240293d07abda9c4263ea1"
     },
     {
       "file": "bin/gvswitch",
       "source": "prebuilt",
-      "sha256": "7acc59520d755b517f346f904fc34159de5fe6595010ab38ca2d60e7629ba009"
+      "sha256": "2cf165b314049b394d96d82b4de57cb2feb396e4414274fc08855d5550e91c43"
     },
     {
       "file": "bin/lbx",
@@ -33,7 +33,7 @@
     {
       "file": "usr/bin/crosvm",
       "source": "prebuilt",
-      "sha256": "77c46849c0bd4dcca9bb42fb93b7972d12e85a5eaaf5b51e773d938161abe6f5"
+      "sha256": "ddc1059a74dc61bc55238842401c413dda6d0037ce8fd6860b86739c30f2eb51"
     },
     {
       "file": "usr/bin/magisk",
@@ -143,7 +143,7 @@
     {
       "file": "usr/lib/libvirglrenderer.so",
       "source": "prebuilt",
-      "sha256": "39e141fbc744cf56951ed90caf623221979f21405aad03730132a78db6db027f"
+      "sha256": "f625d424c89c9c9fb682a81edfa1531ed128e92dc32fe0356a3696e2c00ee47b"
     },
     {
       "file": "usr/lib/libvncserver.so",
@@ -198,7 +198,7 @@
     {
       "file": "usr/lib/modules/android15-6.6/udmabuf-gki-6.6.ko",
       "source": "prebuilt",
-      "sha256": "7309744e943513305f0918f4b953a3d31ae12dece9847b8d8d178c5a969c8cf0"
+      "sha256": "ab16c793d5f28391b7cf438f128158f1855b64ec5bbf46dab935026c8d399b5f"
     },
     {
       "file": "usr/lib/modules/android16-6.12/gh-unmovable-gki-6.12.ko",
